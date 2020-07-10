@@ -1,0 +1,16 @@
+body {
+  min-height:			100vh;
+  margin:				0;
+  padding:			1rem;
+  color:				#FFFFFF;
+  background-color:	#FECA57;
+}
+
+svg {
+  display:			block;
+  margin:				auto;
+}
+
+* {
+  box-sizing:			border-box;
+}
